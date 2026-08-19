@@ -1,14 +1,23 @@
-## 👋 Welcome to The L-O-L-A-Plex
+# Lolaplex
 
-This repository collection is primarily for our small group – just between us. We use it as a space to share work in progress, build on existing projects together, and keep ideas central before broader consumption.
+Independent software collective and engineering lab by [@Klix927](https://github.com/Klix927) and [@cypoe](https://github.com/cypoe).
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+### What We Build
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We build high-leverage developer tools, autonomous agent infrastructure, system utilities, and experimental software.
+
+---
+
+### Principles
+
+- **High Craft & Pragmatism:** We build fast, resilient tools designed for daily use. No unnecessary abstraction layers, zero bloat.
+- **Autonomy & Control:** Systems should give developers and autonomous agents full sovereignty over their data, tools, and execution environment.
+- **Small Teams, High Leverage:** Turning focused daily-driver workflows and system experiments into robust, open primitives.
+
+---
+
+<p align="left">
+  Maintained by <a href="https://github.com/Klix927">@Klix927</a> & <a href="https://github.com/cypoe">@cypoe</a>
+</p>
