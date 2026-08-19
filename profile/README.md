@@ -1,6 +1,6 @@
 # Lolaplex
 
-Independent software collective and engineering lab by [@Klix927](https://github.com/Klix927) and [@cypoe](https://github.com/cypoe).
+Independent software collective and engineering lab by [@Klix927](https://github.com/Klix927) (Lolax.dev) and [@cypoe](https://github.com/cypoe) (Plex).
 
 ---
 
